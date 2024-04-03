@@ -4,7 +4,7 @@ import time
 import random
 
 # URL do site
-url = "https://devaneioa.blogspot.com/2024/04/a-danca-entre-ordem-e-caos-uma.html"
+url = " "
 
 # Número de visualizações
 numero_visualizacoes = 20000
